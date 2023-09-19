@@ -6,6 +6,11 @@ pdfのテーブル配置図を背景画像としてそこに席の位置情報�
 
 このプロジェクトではサンプルとして、結婚式会場での配席をイメージした座席表のテンプレートを生成する。
 
+# デモ
+https://github.com/lzxzjtijsp/dynamic-seats-generator/assets/50665131/427ec48f-9458-41a4-8115-18df6dd46a4b
+
+
+
 leaefletをインストールする
 ```shell
 yarn add leaflet react-leaflet
